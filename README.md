@@ -1,43 +1,55 @@
-Dabba_Service(tiffin-service)
+# Dabba_Service(tiffin-service)
 
 The Dabba Service Website is a web-based application that allows users to order homemade food online, making it easier to get fresh, homemade meals even with a busy schedule.
 
-Technologies Used:
+# Technologies Used:
 1. **Frontend:** Built with HTML and CSS for structure and visual appeal, ensuring device accessibility.
 2.** Backend:** Powered by PHP for dynamic content, secure database interactions, and user authentication.
 3. **Database:** I have used XAMPP to manage the MySQL database, leveraging its comprehensive development environment for seamless database management and integration with the website."
 3. **Interactivity:** JavaScript adds form validation, and dynamic page elements for an engaging user experience.
 
-#System Architecture:
+# System Architecture:
 ![image](https://github.com/user-attachments/assets/fb03ca46-6b45-4c56-8ee0-3a4e3c88b14b)
 
-#Data Flow Diagram:
+# Data Flow Diagram:
 ![image](https://github.com/user-attachments/assets/887beb76-b2cd-4548-a7bd-cd12df1f5325)
 
-#Logo:
-
-![image](https://github.com/user-attachments/assets/4ab778df-017b-4a16-9873-a5cc11996e69)
-
-#key Features:
+# key Features:
 **1. User Registration and Authentication**
-![image](https://github.com/user-attachments/assets/94a58260-ac48-478c-a429-3e868a55f2f6)    ![image](https://github.com/user-attachments/assets/18919789-f185-4907-a415-89ef4921e76f)
+  1.1 Sign Up:
+  ![Screenshot 2024-04-22 034208](https://github.com/user-attachments/assets/384877a0-6173-4a92-88d9-31d2c4606cb7)
+
+  1.2 Log in:
+  ![Screenshot 2024-04-22 034229](https://github.com/user-attachments/assets/0a55b256-8aa8-4569-b803-b0e26f4df835)
 
 **2. Dashboard**
-![image](https://github.com/user-attachments/assets/8cb2ecfb-0c14-4825-a86d-1f67eb6c86a3)    ![image](https://github.com/user-attachments/assets/986ab027-0615-4fe6-b1ca-582b68a9345b)
+  ![Screenshot 2024-04-22 034447](https://github.com/user-attachments/assets/16e3abef-23bc-41e5-ba81-b91a90eedff0)
+  ![Screenshot 2024-04-22 034612](https://github.com/user-attachments/assets/f3616f54-c8a5-4933-9522-e8f0b805e78b)
 
-**3. Admin**
-3.1 Add: ![image](https://github.com/user-attachments/assets/839266d0-817f-46ba-b3d1-79dbd075b937)           3.2 Update: ![image](https://github.com/user-attachments/assets/12c9dc47-5e83-48ad-8f27-30acd63c0af9)
-3.3 Edit/Delete ![image](https://github.com/user-attachments/assets/55a593f2-5209-4197-8167-c41403fe386c)    3.4 All Admin:![image](https://github.com/user-attachments/assets/85902e14-6b4b-483e-85f6-accb7b081dd0)
+**3. Admin**                                                                                                                                                                                                                                                                
+  3.1 Add: 
+  ![image](https://github.com/user-attachments/assets/ffdfac15-c028-40d1-b3e0-a0920c20a61f)
+
+  3.2 Update: 
+  ![image](https://github.com/user-attachments/assets/c771fb84-c728-4237-88d1-65e9f631672e)
+
+  3.3 Edit/Delete:  
+  ![image](https://github.com/user-attachments/assets/5444ba14-79c1-40f8-bb95-cb4da6db5ccb)
+
+  3.4 All Admin:
+  ![image](https://github.com/user-attachments/assets/816918db-7e07-4b51-bb2b-430c0906f747)
 
 **4. Dabba provider:**
-4.1 Add Dabba Provider:![image](https://github.com/user-attachments/assets/e0df91b6-8cfb-4991-8ff1-8abe930b0616)        4.2 Edit/Delete: ![Screenshot 2024-04-22 005742](https://github.com/user-attachments/assets/6c7b505c-9972-4485-b12f-23cb0022758f)
-4.3 Update Dabba Provider: ![image](https://github.com/user-attachments/assets/b9d060b4-c7e6-41b8-b803-70d251de81e2)    4.4 All Dabba Provider: ![image](https://github.com/user-attachments/assets/f3e60f19-3b93-468f-a8c5-b59889fcab6c)
+  4.1 Add Dabba Provider:
+  ![image](https://github.com/user-attachments/assets/90d79935-7bb6-4793-92c3-c25d06e3d7d3)
+
+  4.2 Edit/Delete: 
+  ![image](https://github.com/user-attachments/assets/c450ebb3-e4d5-46db-9dbb-ac5f70c43229)
 
 
+  4.3 Update Dabba Provider: 
+  ![image](https://github.com/user-attachments/assets/d3f9e891-f94c-4648-a95f-b0ee7d3b8237)
 
+  4.4 All Dabba Provider:
+  ![image](https://github.com/user-attachments/assets/e2afd98a-69ee-49d2-abe6-71f0b0285d53)
 
-
-
-
-
-The project involved careful planning, design, and testing to create a user-friendly and efficient meal delivery platform.
