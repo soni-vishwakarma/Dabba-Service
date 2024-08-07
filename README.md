@@ -18,17 +18,19 @@ The Dabba Service Website is a web-based application that allows users to order 
 **1. User Registration and Authentication**
 
   1.1 Sign Up:
-  ![image](https://github.com/user-attachments/assets/7a9002e8-5db2-4894-bc99-3564b5b216f3)
+  ![image](https://github.com/user-attachments/assets/5ac8bbdf-78b1-46e6-86e4-1522335f6640)
 
   1.2 Log in:
-  ![image](https://github.com/user-attachments/assets/ef3b5364-3eaa-46f9-89c5-bc9d8d35585c)
+  ![image](https://github.com/user-attachments/assets/d5a6cc33-97a5-4665-b170-c5f0897fe1f3)
 
 **2. Dashboard**
 
-  ![Screenshot 2024-04-22 034447](https://github.com/user-attachments/assets/16e3abef-23bc-41e5-ba81-b91a90eedff0)
+  ![image](https://github.com/user-attachments/assets/dc04125b-407e-44af-9d09-6ed280328ad1)
+
   ![Screenshot 2024-04-22 034612](https://github.com/user-attachments/assets/f3616f54-c8a5-4933-9522-e8f0b805e78b)
 
-**3. Admin**                                                                                                                                                                                                                                                                
+**3. Admin**
+
   3.1 Add: 
   ![image](https://github.com/user-attachments/assets/ffdfac15-c028-40d1-b3e0-a0920c20a61f)
 
@@ -42,6 +44,7 @@ The Dabba Service Website is a web-based application that allows users to order 
   ![image](https://github.com/user-attachments/assets/816918db-7e07-4b51-bb2b-430c0906f747)
 
 **4. Dabba provider:**
+
   4.1 Add Dabba Provider:
   ![image](https://github.com/user-attachments/assets/90d79935-7bb6-4793-92c3-c25d06e3d7d3)
 
