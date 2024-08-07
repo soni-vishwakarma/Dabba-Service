@@ -32,7 +32,7 @@ The Dabba Service Website is a web-based application that allows users to order 
 **3. Admin**
   
   3.1 Add Admin:
-  !![image](https://github.com/user-attachments/assets/96d86016-396e-4afa-a37a-ebb276b0f73f)
+   ![image](https://github.com/user-attachments/assets/96d86016-396e-4afa-a37a-ebb276b0f73f)
 
   3.2 Update: 
   ![image](https://github.com/user-attachments/assets/c771fb84-c728-4237-88d1-65e9f631672e)
