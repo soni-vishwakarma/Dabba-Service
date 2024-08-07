@@ -16,13 +16,15 @@ The Dabba Service Website is a web-based application that allows users to order 
 
 # key Features:
 **1. User Registration and Authentication**
+
   1.1 Sign Up:
-  ![Screenshot 2024-04-22 034208](https://github.com/user-attachments/assets/384877a0-6173-4a92-88d9-31d2c4606cb7)
+  ![image](https://github.com/user-attachments/assets/7a9002e8-5db2-4894-bc99-3564b5b216f3)
 
   1.2 Log in:
-  ![Screenshot 2024-04-22 034229](https://github.com/user-attachments/assets/0a55b256-8aa8-4569-b803-b0e26f4df835)
+  ![image](https://github.com/user-attachments/assets/ef3b5364-3eaa-46f9-89c5-bc9d8d35585c)
 
 **2. Dashboard**
+
   ![Screenshot 2024-04-22 034447](https://github.com/user-attachments/assets/16e3abef-23bc-41e5-ba81-b91a90eedff0)
   ![Screenshot 2024-04-22 034612](https://github.com/user-attachments/assets/f3616f54-c8a5-4933-9522-e8f0b805e78b)
 
