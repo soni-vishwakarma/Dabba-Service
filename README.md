@@ -5,7 +5,7 @@ The Dabba Service Website is a web-based application that allows users to order 
 # Technologies Used:
 1. **Frontend:** Built with HTML and CSS for structure and visual appeal, ensuring device accessibility.
 2. **Backend:** Powered by PHP for dynamic content, secure database interactions, and user authentication.
-3. **Database:** I have used XAMPP to manage the MySQL database, leveraging its comprehensive development environment for seamless database management and integration with the website."
+3. **Database:** I have used XAMPP to manage the MySQL database, leveraging its comprehensive development environment for seamless database management and integration with the website.
 3. **Interactivity:** JavaScript adds form validation, and dynamic page elements for an engaging user experience.
 
 # System Architecture:
